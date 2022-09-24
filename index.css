@@ -1,0 +1,28 @@
+body{
+    background-color: #E0C9A9;
+}
+
+
+
+.content .header{
+    display: flex;
+    justify-content:space-around;
+    margin-right: 30%;
+
+}
+
+li{
+    list-style-position: inside;
+}
+
+
+.content .section span{
+    background-color: #963102;
+    color: white;
+    border-radius: 10px;
+}
+
+.footer{
+    font-size: 26px;
+    text-align: center;
+}
